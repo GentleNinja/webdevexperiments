@@ -38,12 +38,13 @@
             background-color: #F2921D;
             width: 200px;
             height: 200px;
-            margin: 260px
+            border: 20px
            }
            
            .bottom-container    {
             background-color: #A61F69;
             width: 200px;
             height: 200px;
+            border: 10px;
            }
             
