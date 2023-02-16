@@ -26,7 +26,16 @@
                 color: #66BFBF;
             }
 
-            div {
-                background-color: #F2CD5C;
-            }
+           .top-container   {
+            background-color: #F2CD5C;
+           }
+           
+           .middle-container    {
+            background-color: #F2921D;
+           }
+           
+           .bottom-container    {
+            background-color: #A61F69;
+
+           }
             
